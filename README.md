@@ -16,5 +16,5 @@ Before you begin, ensure you have Rust installed on your machine. You can instal
 
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/guessing-game.git
-cd guessing-game
+git https://github.com/ray-temtsen/rust-lang-chapter-2
+cd rust-lang-chapter-2
